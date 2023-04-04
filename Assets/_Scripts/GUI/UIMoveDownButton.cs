@@ -29,7 +29,7 @@ namespace Evstr.GUI
             while (_buttonPressed && _player.transform.position.y > -4.5f)
             {
                 _player.transform.Translate(Vector2.down * _speed * Time.deltaTime);
-                yield return new WaitForSeconds(0);
+                yield return null;
             }
         }
     }

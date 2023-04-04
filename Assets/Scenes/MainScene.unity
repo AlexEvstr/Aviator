@@ -511,6 +511,7 @@ GameObject:
   - component: {fileID: 538550194}
   - component: {fileID: 538550193}
   - component: {fileID: 538550192}
+  - component: {fileID: 538550195}
   m_Layer: 5
   m_Name: ShootButton
   m_TagString: Untagged
@@ -620,6 +621,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 538550190}
   m_CullTransparentMesh: 1
+--- !u!114 &538550195
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 538550190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b47c045444d3148da9bbf238316d92ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _rocketPrefab: {fileID: 2280680159569707874, guid: 3b175cda873094124aa8ebe5dbfdf51f, type: 3}
+  _player: {fileID: 1185176149}
 --- !u!1 &629838966
 GameObject:
   m_ObjectHideFlags: 0
