@@ -5,7 +5,7 @@ using UnityEngine.EventSystems;
 
 namespace Evstr.GUI
 {
-    public class UIMoveUpButton : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
+    public class UIMoveDownButton : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
     {
         [SerializeField] private GameObject _player;
 
@@ -15,20 +15,20 @@ namespace Evstr.GUI
         public void OnPointerDown(PointerEventData eventData)
         {
             _buttonPressed = true;
-            StartCoroutine(MoveUp());
+            StartCoroutine(MoveDown());
         }
 
         public void OnPointerUp(PointerEventData eventData)
         {
             _buttonPressed = false;
-            StopCoroutine(MoveUp());
+            StopCoroutine(MoveDown());
         }
 
-        private IEnumerator MoveUp()
+        private IEnumerator MoveDown()
         {
-           while (_buttonPressed && _player.transform.position.y < 4.5f)
+            while (_buttonPressed && _player.transform.position.y > -4.5f)
             {
-                _player.transform.Translate(Vector2.up * _speed * Time.deltaTime);
+                _player.transform.Translate(Vector2.down * _speed * Time.deltaTime);
                 yield return new WaitForSeconds(0);
             }
         }
