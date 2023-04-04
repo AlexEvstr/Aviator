@@ -1,0 +1,1181 @@
+fileFormatVersion: 2
+guid: 9e19ee13cfa7a4f8ebf90b8152f2e0da
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aviator 2-cutout_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 17
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91201b8ab60b4c7aadb28eefeaa4d7f
+      internalID: 520312321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 404
+        width: 74
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43015d900f6b54fe3b72b8f2fe443b7c
+      internalID: 731127524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 408
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbf9cb3a48e44db3b528f969e9c3689
+      internalID: -885983339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 407
+        width: 67
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f9d72baa94a4df5a057a4d19df6cb3
+      internalID: 1792969417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_4
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 397
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f2e59f998b04c37815728d00a7c5a4
+      internalID: 2134747926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_5
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 402
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a432b323e0f504dfeaae5e8a4efd143a
+      internalID: -1378244434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 397
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b902b11414f4c80a5f005ca2b7bbf3
+      internalID: 1705917255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_7
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 384
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe42e65ce9d64e0684b8c71fea95b36
+      internalID: -523982722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_8
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 384
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270bd35196e0e42119febd9a1b5741d4
+      internalID: 1611688943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_9
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 412
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6f62f7628db40daad1037ee28cb9c6
+      internalID: 1696461754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_10
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 403
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea22ae1719e54540a52c6590b5a6f86
+      internalID: -863156435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_11
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 396
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054f95f72cc254070ae07b9fa3e81000
+      internalID: -1262027592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 308
+        width: 77
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be489294abf446adb504b03332c10b8
+      internalID: -1131116017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 313
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10cc155f857444e3ad128465487fbfc
+      internalID: 2086675910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_14
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 311
+        width: 71
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a70a3fa197a47a6a9f8163dd08e3a0
+      internalID: -1765487152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_15
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 301
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad256755e95e4543ad39f1b23852278
+      internalID: 983766495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_16
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 307
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a905cfb488b3d4e9182668a930607fcd
+      internalID: 82621812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_17
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 301
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7566f8f42644367b57e522040b6316
+      internalID: 306220658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_18
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 288
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b99d1c275534981a20694b695fb1c8
+      internalID: 1183802406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_19
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 288
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aef8757f95bb446c8af964f263777a1
+      internalID: -535612710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_20
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 317
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5266cb6204b4f8baee781d4049091f
+      internalID: -749959519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_21
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 309
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338cbd21ff93e4e6c9de6e83c46d84fd
+      internalID: -443767800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_22
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 301
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cabf6b011a164e4598cda786a5609c9
+      internalID: 101165095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 17
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c885d35d6324438917153ea108d69d
+      internalID: 1868565476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_24
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 215
+        width: 67
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f472fd7992c1a4934aab3179b480ec83
+      internalID: -424493307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_25
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 208
+        width: 127
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b9da25d05474cfdba6f7e23d11d8c5
+      internalID: -1473861333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_26
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 179
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db17c99d1247482ca8dad14ff0fda3b
+      internalID: 626662462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_27
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 177
+        width: 236
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7d21520dc5d4a77bb348ff66b6daae
+      internalID: 218554914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_28
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 209
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e6f9fe15b6446e2804962edb649cb1
+      internalID: 1557404374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_29
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 201
+        width: 88
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ddfeccfc7444b28ae42c5a6e42b7bc
+      internalID: 1628663904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_30
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 217
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35355b1bcd04544058aec7c2b57e23d0
+      internalID: -1776791239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 18
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2391cbd988e49399ed2ef3396504c0
+      internalID: -2043234030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 95
+        width: 70
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd9e612c39cd4bb3ad081a244dcf7d0
+      internalID: -941972547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_33
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 87
+        width: 130
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c28c17f1151e489899b00bcbd3594fc
+      internalID: 226638722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_34
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 59
+        width: 87
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87f66ced803f4b29bae30083723531a
+      internalID: -1621579523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_35
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 58
+        width: 239
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c61674f5c7e1483b89d725f177fdba9
+      internalID: 1955275032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_36
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 88
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83e8b69e0c5640b79157ad6cb5aa577
+      internalID: 708092595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_37
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 74
+        width: 95
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e92183bf7351490f8841a5f5c6fcd5b
+      internalID: -1530271067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_38
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 98
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc58cba09eca34d4cada369b125def35
+      internalID: -213640325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_39
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 11
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b639652ee03344c3b92fa4c703077438
+      internalID: 37449678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_40
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 10
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b62b0b617b14566aa3ff181936960a
+      internalID: -1149729890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_41
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 106
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c30f9ffcfa3b432a86706e0524d8ccd
+      internalID: -1165160353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_42
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 7
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9533a4f16a84f38b270bd71ec44af0
+      internalID: 316446277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_43
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 9
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb8cfff64ca44e139f8777b5ace2e16
+      internalID: 222132866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_44
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 7
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8ea7a6b34384cc382badd8683a64ae
+      internalID: -1255881407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_45
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 3
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea3e8baf50ad4bf9ace3f9fa0647f6e
+      internalID: 1923493976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviator 2-cutout_46
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2
+        width: 87
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8718c2af5e5464c09961984471e50d86
+      internalID: -304245801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      aviator 2-cutout_25: -1473861333
+      aviator 2-cutout_44: -1255881407
+      aviator 2-cutout_27: 218554914
+      aviator 2-cutout_7: -523982722
+      aviator 2-cutout_5: -1378244434
+      aviator 2-cutout_43: 222132866
+      aviator 2-cutout_10: -863156435
+      aviator 2-cutout_2: -885983339
+      aviator 2-cutout_22: 101165095
+      aviator 2-cutout_20: -749959519
+      aviator 2-cutout_21: -443767800
+      aviator 2-cutout_3: 1792969417
+      aviator 2-cutout_39: 37449678
+      aviator 2-cutout_16: 82621812
+      aviator 2-cutout_8: 1611688943
+      aviator 2-cutout_37: -1530271067
+      aviator 2-cutout_23: 1868565476
+      aviator 2-cutout_45: 1923493976
+      aviator 2-cutout_26: 626662462
+      aviator 2-cutout_18: 1183802406
+      aviator 2-cutout_28: 1557404374
+      aviator 2-cutout_19: -535612710
+      aviator 2-cutout_0: 520312321
+      aviator 2-cutout_1: 731127524
+      aviator 2-cutout_41: -1165160353
+      aviator 2-cutout_14: -1765487152
+      aviator 2-cutout_42: 316446277
+      aviator 2-cutout_9: 1696461754
+      aviator 2-cutout_17: 306220658
+      aviator 2-cutout_35: 1955275032
+      aviator 2-cutout_24: -424493307
+      aviator 2-cutout_30: -1776791239
+      aviator 2-cutout_6: 1705917255
+      aviator 2-cutout_46: -304245801
+      aviator 2-cutout_33: 226638722
+      aviator 2-cutout_12: -1131116017
+      aviator 2-cutout_29: 1628663904
+      aviator 2-cutout_38: -213640325
+      aviator 2-cutout_31: -2043234030
+      aviator 2-cutout_4: 2134747926
+      aviator 2-cutout_11: -1262027592
+      aviator 2-cutout_32: -941972547
+      aviator 2-cutout_13: 2086675910
+      aviator 2-cutout_36: 708092595
+      aviator 2-cutout_15: 983766495
+      aviator 2-cutout_40: -1149729890
+      aviator 2-cutout_34: -1621579523
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
