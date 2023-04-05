@@ -20,7 +20,7 @@ namespace Evstr.Obstacles
         {
             while(true)
             {
-                yield return new WaitForSeconds(1);
+                yield return new WaitForSeconds(2);
                 GameObject obstacle = ObjectPoolObstacle.SharedInstance.GetPooledObject();
                 _yPosition = Random.Range(-_yBoards, _yBoards);
                 if (obstacle != null)
