@@ -6,16 +6,11 @@ namespace Evstr
 {
     public class ObstacleRotation : MonoBehaviour
     {
-        // Start is called before the first frame update
-        void Start()
-        {
-        
-        }
+        private float _speed = 5.0f;
 
-        // Update is called once per frame
-        void Update()
+        private void Update()
         {
-        
+            transform.Rotate(0, 0, 45 * -_speed * Time.deltaTime);
         }
     }
 }
