@@ -11,6 +11,8 @@ GameObject:
   - component: {fileID: 7339329348304563143}
   - component: {fileID: 7339329348304563142}
   - component: {fileID: -5856594880213452993}
+  - component: {fileID: 8404135162126692663}
+  - component: {fileID: 3871054459739995822}
   m_Layer: 0
   m_Name: EnemyPrefab
   m_TagString: Untagged
@@ -97,3 +99,57 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a609088d4f8b45bda269b479cb774fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &8404135162126692663
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339329348304563141}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 280401f01af894e768162aa1a6ecca2a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!68 &3871054459739995822
+EdgeCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339329348304563141}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_EdgeRadius: 0
+  m_Points:
+  - {x: 0.104690805, y: 0.1733763}
+  - {x: 0.6620957, y: 0.70613426}
+  - {x: 0.21672577, y: 0.45120013}
+  - {x: 0.30124313, y: 1.0124323}
+  - {x: 0.071604654, y: 0.8795912}
+  - {x: 0.08177422, y: 0.89484155}
+  - {x: -0.50971127, y: 0.96520436}
+  - {x: -0.7115694, y: 0.6227344}
+  - {x: -0.5500525, y: 0.20351872}
+  - {x: -1.163108, y: 0.015429273}
+  - {x: -1.516672, y: -0.4969941}
+  - {x: -1.3368645, y: -0.79726386}
+  - {x: -0.05263222, y: -1.0031056}
+  - {x: 0.86137813, y: -0.69920325}
+  - {x: 1.1045476, y: -0.5073211}
+  - {x: 1.5297344, y: -0.49527216}
+  - {x: 1.3817922, y: -0.30282646}
+  - {x: 1.2826775, y: -0.13357747}
+  - {x: 1.4545797, y: 0.6995977}
+  - {x: 1.2354319, y: 0.81407773}
+  - {x: 0.59404206, y: 0.07488537}
+  - {x: 0.15537369, y: 0.16099243}
+  m_AdjacentStartPoint: {x: 0, y: 0}
+  m_AdjacentEndPoint: {x: 0, y: 0}
+  m_UseAdjacentStartPoint: 0
+  m_UseAdjacentEndPoint: 0
