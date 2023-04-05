@@ -2,15 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Evstr.Enemy
+namespace Evstr.Player
 {
-    public class EnemyDetector : MonoBehaviour
+    public class ObstacleDetector : MonoBehaviour
     {
         private void OnTriggerEnter2D(Collider2D collision)
         {
-            if(collision.gameObject.CompareTag("Player"))
+            if(collision.gameObject.CompareTag("Obstacle"))
             {
-                Debug.Log("Enemy - Game Over");
+                Debug.Log("Obstacle - Game over");
             }
         }
     }
