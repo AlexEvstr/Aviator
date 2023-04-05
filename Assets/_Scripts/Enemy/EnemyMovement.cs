@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Evstr.Obstacles
+namespace Evstr.Enemy
 {
-    public class ObstacleMovement : MonoBehaviour
+    public class EnemyMovement : MonoBehaviour
     {
         private float _speed = 5.0f;
 
