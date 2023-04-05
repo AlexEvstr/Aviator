@@ -1,13 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
+using Evstr.Rocket;
 using UnityEngine;
-using UnityEngine.Pool;
 
-namespace Evstr.Rocket
+namespace Evstr.Obstacles
 {
-    public class ObjectPoolRocket : MonoBehaviour
+    public class ObjectPoolObstacle : MonoBehaviour
     {
-        public static ObjectPoolRocket SharedInstance;
+        public static ObjectPoolObstacle SharedInstance;
         public List<GameObject> pooledObjects;
         public GameObject objectToPool;
         public int amountToPool;

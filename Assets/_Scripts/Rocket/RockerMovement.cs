@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Net.Sockets;
 using UnityEngine;
 
-namespace Evstr
+namespace Evstr.Rocket
 {
     public class RockerMovement : MonoBehaviour
     {
