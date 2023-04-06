@@ -878,6 +878,7 @@ GameObject:
   - component: {fileID: 585297919}
   - component: {fileID: 585297918}
   - component: {fileID: 585297920}
+  - component: {fileID: 585297921}
   m_Layer: 0
   m_Name: SpawnManager
   m_TagString: Untagged
@@ -922,6 +923,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4ebf086858519417394c51f9df2f0853, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &585297921
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 585297917}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4783d0fd984f146698aec8a5ae4ba7e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &629838966
@@ -1362,6 +1375,7 @@ GameObject:
   - component: {fileID: 1185176153}
   - component: {fileID: 1185176155}
   - component: {fileID: 1185176154}
+  - component: {fileID: 1185176156}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -1522,6 +1536,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 38a96172aa83e49069aef246d236946e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1185176156
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1185176149}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c926511e366848ce84a84f17c6d7909, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1220729665
@@ -2028,6 +2054,7 @@ GameObject:
   - component: {fileID: 1707071366}
   - component: {fileID: 1707071368}
   - component: {fileID: 1707071369}
+  - component: {fileID: 1707071370}
   m_Layer: 0
   m_Name: ObjectPool
   m_TagString: Untagged
@@ -2094,6 +2121,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pooledObjects: []
   objectToPool: {fileID: 7339329348304563141, guid: fd53424f01e7d4b55b75e22f307ed3e6, type: 3}
+  amountToPool: 5
+--- !u!114 &1707071370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1707071365}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 436d63226954646c6969a6f56ec6e494, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pooledObjects: []
+  objectToPool: {fileID: 8607883769281725703, guid: a2a8a91d566624e9e9612985d0a7c16e, type: 3}
   amountToPool: 5
 --- !u!1 &1787626788
 GameObject:
