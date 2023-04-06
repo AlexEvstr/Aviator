@@ -13,7 +13,7 @@ namespace Evstr.Rocket
             {
                 gameObject.SetActive(false);
                 collision.gameObject.SetActive(false);
-                Score.score += 5;
+                Score.score += 10;
             }
         }
     }
