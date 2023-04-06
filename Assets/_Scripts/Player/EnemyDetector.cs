@@ -11,6 +11,7 @@ namespace Evstr.Enemy
             if(collision.gameObject.CompareTag("Enemy"))
             {
                 Debug.Log("Enemy - Game Over");
+                Time.timeScale = 0;
             }
         }
     }
