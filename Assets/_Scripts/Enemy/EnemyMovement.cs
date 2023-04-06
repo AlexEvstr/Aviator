@@ -6,7 +6,7 @@ namespace Evstr.Enemy
 {
     public class EnemyMovement : MonoBehaviour
     {
-        private float _speed = 5.0f;
+        private float _speed = 7.0f;
 
         private void Update()
         {

@@ -1,8 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Evstr.GameScore;
 
-namespace Evstr
+namespace Evstr.Rocket
 {
     public class RocketDetector : MonoBehaviour
     {
@@ -12,6 +13,7 @@ namespace Evstr
             {
                 gameObject.SetActive(false);
                 collision.gameObject.SetActive(false);
+                Score.score += 5;
             }
         }
     }
