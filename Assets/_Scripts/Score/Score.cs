@@ -29,5 +29,15 @@ namespace Evstr.GameScore
         {
             _scoreText.text = score.ToString();
         }
+
+        private void OnDisable()
+        {
+            SaveScore();
+        }
+
+        public void SaveScore()
+        {
+            PlayerPrefs.SetInt("LastScore", score);
+        }
     }
 }
